@@ -59,10 +59,11 @@ cart = {
     "Mouse": 5,
     "Webcam": 1,
     "Monitor": 2,
-    "Printer": 4
+    "Printer": 4,
+    "Smartphone": 1
 }
 
-coupon = "DISCOUNT15"
+coupon = "DISCOUNT30"
 
 address = "Casa chica 512"
 
