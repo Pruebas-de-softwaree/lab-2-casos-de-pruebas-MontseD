@@ -56,8 +56,8 @@ if __name__ == "__main__":
     purchase = OnlinePurchase()
 
 cart = {
-    "Mouse": 2,
-    "Webcam": 3
+    "Mouse": -2,
+    "Webcam": -6
 }
 
 coupon = "DISCOUNT10"
