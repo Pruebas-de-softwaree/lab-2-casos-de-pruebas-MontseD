@@ -56,11 +56,13 @@ if __name__ == "__main__":
     purchase = OnlinePurchase()
 
 cart = {
-    "Mouse": -2,
-    "Webcam": -6
+    "Mouse": 5,
+    "Webcam": 1,
+    "Monitor": 2,
+    "Printer": 4
 }
 
-coupon = "DISCOUNT10"
+coupon = "DISCOUNT15"
 
 address = "Casa chica 512"
 
